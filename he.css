@@ -1,0 +1,23 @@
+body{
+    margin: 0%;
+}
+.menubar{
+    width:50%;
+    background-color:aqua;
+    padding: 5px;
+    text-align: center;
+    border-color: black;
+    overflow: auto;
+    border: 3px solid black;
+}
+.menubar a{
+color:whitesmoke;    
+width: 15%;
+padding: 5px;
+float: left;
+font-size:200%;
+transition:ease;
+}
+.menubar a:hover{
+background-color: crimson;
+}
